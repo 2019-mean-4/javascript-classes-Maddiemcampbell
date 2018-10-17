@@ -1,0 +1,12 @@
+{
+  "name": "ssf-classes",
+  "author": "Softstack Factory",
+  "version": "1.0.0",
+  "description": "In this challenge you will create typescript classes with properties and methods as well as create instances of your classes",
+  "scripts": {
+    "test": "jest --noStackTrace"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
