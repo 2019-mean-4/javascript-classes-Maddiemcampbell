@@ -31,4 +31,8 @@ $ node <filename>.js
 
 **$  Is not apart of the command That denotes a bash terminal command**
 
+## Running Challenges
+Once you have created all challenges push your completed files to the remote repo created by the github classroom
+
+
 <!-- ## Start in example import folder [here](https://github.com/SoftStackFactory/typescript-imports/tree/master/example-import) -->
