@@ -3,8 +3,8 @@
 #### Instructions
 * Create a file called person.ts.
 * Create and export a person class with properties: firstName, lastName, age, isAlive.
-* Give your properties the appropriate type form : string, number or boolean. *note all people are alive by default.
-* create and export an instance of your person class.
+* Give your properties the appropriate type: string, number or boolean. *note all people are alive by default.
+* Create and export an instance of your person class as a variable called humanoidA.
 * Your code must succesfully transpile/compile and pass all tests.
 * Convert the code to javascript by running the following command.
 ```
