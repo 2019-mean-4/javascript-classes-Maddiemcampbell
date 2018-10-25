@@ -1,5 +1,5 @@
 module.exports = {
-    'testRegex': '(/__tests__/.*|(\\.|/)(test|spec))\\',
+    // 'testRegex': '(/__tests__/.*|(\\.|/)(test|spec))\\',
     'moduleFileExtensions': [
         'js',
         'jsx',

@@ -1,0 +1,4 @@
+#! /bin/sh
+# Type ./update to run this file from root of project directory
+git remote add upstream https://github.com/SoftStackFactory/ssf-classes.git
+git pull upstream master
