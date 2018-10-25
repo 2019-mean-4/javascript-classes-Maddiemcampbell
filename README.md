@@ -8,7 +8,12 @@ First we must install typescript. In your terminal run the following command
 ```
  $ npm install -g typescript
 ```
-** Now ** Clone the repo with the below command
+Then we must install the rest of our dependencies.  Run the following command
+```
+ $ npm install
+```
+
+** Now ** If you have not received a repo from github classroom, clone the repo with the below command
 
 ```
 $ git clone https://github.com/SoftStackFactory/ssf-classes.git
