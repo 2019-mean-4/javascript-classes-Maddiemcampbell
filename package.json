@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "jest-expect-message"
   }
 }
