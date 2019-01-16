@@ -3,7 +3,7 @@
 #### Instructions
 * Create a file called planets.ts.
 * Create and export a planet class with width and color properties.
-* create and export 3 planets: krypton, omicronPersei8, Nemesis and give them any value for the width and color properties.
+* create and export 3 planets: krypton, omicronPersei8, nemesis and give them any value for the width and color properties.
 * Your code must succesfully transpile and pass all tests.
 * Convert the code to javascript by running the following command.
 ```
