@@ -1,7 +1,7 @@
-const { planet } = require('../planet-challenge/planet')
-const { krypton } = require('../planet-challenge/planet')
-const { omicronPersei8 } = require('../planet-challenge/planet')
-const { nemesis } = require('../planet-challenge/planet')
+const { planet } = require('../planet-challenge/planets')
+const { krypton } = require('../planet-challenge/planets')
+const { omicronPersei8 } = require('../planet-challenge/planets')
+const { nemesis } = require('../planet-challenge/planets')
 
 test(`planet class should exist`, () => {
   const planet1 = new planet(10, 'purple')
