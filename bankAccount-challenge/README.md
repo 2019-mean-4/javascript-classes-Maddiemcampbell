@@ -3,9 +3,9 @@
 #### Instructions
 * Create a file called bankAccount.ts.
 * Create and export a bankAccount class with properties: owner (owner's name), balance (amount currently in the account), transactions (an array of numbers for each transaction).
-* write a method to retrieve the current balance.
-* write a method to withdral a given amount.
-* write a method to deposit a given amount.
+* write a method called getBalance to retrieve the current balance.
+* write a method called withdrawal to withdraw a given amount.
+* write a method called deposit to deposit a given amount.
 * Your code must succesfully transpile and pass all tests.
 * Convert the code to javascript by running the following command.
 ```
