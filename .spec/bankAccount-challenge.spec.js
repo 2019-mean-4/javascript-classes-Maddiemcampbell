@@ -14,8 +14,8 @@ test('Should be able to retrieve balance', () => {
   let balance = myAccount.getBalance()
   expect(balance).toBe(50000000)
 })
-test('Should be able to withdrawl an amount', () => {
-  myAccount.withdrawl(25000000)
+test('Should be able to withdrawal an amount', () => {
+  myAccount.withdrawal(25000000)
   expect(myAccount.balance).toBe(25000000)
 })
 test('should be able to deposit an amount', () => {
