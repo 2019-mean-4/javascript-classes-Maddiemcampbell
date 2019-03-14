@@ -10,7 +10,7 @@
 * Your code must succesfully transpile and pass all tests.
 * Convert the code to javascript by running the following command.
 ```
-$ tsc index.ts
+$ tsc bankAccount.ts
 ```
 * Now test your code with
 ```
