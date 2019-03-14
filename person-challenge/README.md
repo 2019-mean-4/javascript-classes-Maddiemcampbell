@@ -8,7 +8,7 @@
 * Your code must succesfully transpile/compile and pass all tests.
 * Convert the code to javascript by running the following command.
 ```
-$ tsc index.ts
+$ tsc person.ts
 ```
 * Now test your code with
 ```
